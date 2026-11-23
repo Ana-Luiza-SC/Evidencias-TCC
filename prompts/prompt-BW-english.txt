@@ -1,0 +1,18 @@
+You must create a new design in Figma, using the available MCP server, based on the input artifacts attached to this message: backlog and wireframe.
+
+Task: produce the high-fidelity interface prototype of the mobile application described in the attached artifacts.
+
+Output:
+- Create a new design file in Figma. Do not use or modify existing files.
+- Use the Figma MCP following this sequence:
+  1. Create the new file with the create_new_file MCP.
+  2. Start a session with the create_session MCP, passing the key (fileKey) of the created file; reuse the returned sessionId in subsequent calls.
+  3. Build the prototype screens in this file with the use_figma MCP.
+- Use 344 x 534 px frames.
+- The prototype is a high-fidelity, non-executable representation of the interface and its states; no code implementation is required.
+
+Constraints:
+- Use only the information contained in the attached artifacts.
+- Do not add features that are not described in the artifacts.
+- All interface text must be in Portuguese.
+- If you cannot read any of the attached artifacts, state at the beginning of your response which artifacts could not be read.

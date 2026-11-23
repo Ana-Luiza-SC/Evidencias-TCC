@@ -46,6 +46,7 @@ Scenarios come from the IUS-GUI dataset and are identified by the interface's `r
 TCC-evidences/
 ├── README.md                  ← Portuguese version
 ├── README.en.md               ← this file (English)
+├── prompts/                   ← prompts for each input configuration (prompt-<config>-portuguese.txt, translated in -english.txt)
 └── 12750/
     ├── backlog_portuguese_version.md
     ├── backlog_english_version.md
@@ -59,7 +60,7 @@ TCC-evidences/
 
 ## Language of the artifacts
 
-**The artifacts used in the runs are in Portuguese** (`*_portuguese_version.*` files). The English versions (`*_english_version.*`) are translations provided only to make the material accessible to other readers and **were not used in the experiment**.
+**The artifacts used in the runs are in Portuguese** (`*_portuguese_version.*` files). The same applies to the prompts in `prompts/` (`*-portuguese.txt` used; `*-english.txt` translations). The English versions (`*_english_version.*`) are translations provided only to make the material accessible to other readers and **were not used in the experiment**.
 
 ## Evaluation sheet
 

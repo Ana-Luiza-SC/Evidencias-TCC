@@ -1,0 +1,19 @@
+Você deverá criar um novo design no Figma, utilizando o servidor MCP disponível, a partir dos artefatos de entrada anexados a esta
+mensagem: backlog.
+
+Tarefa: produzir o protótipo de alta fidelidade da interface do aplicativo móvel descrito nos artefatos anexados.
+
+Saída:
+- Crie um novo arquivo de design no Figma. Não utilize nem modifique arquivos existentes.
+- Utilize o MCP do Figma seguindo esta sequência:
+  1. Crie o novo arquivo com o MCP create_new_file.
+  2. Inicie uma sessão com o MCP create_session, informando a chave (fileKey) do arquivo criado; reutilize o sessionId retornado nas chamadas seguintes.
+  3. Construa as telas do protótipo nesse arquivo com o MCP use_figma.
+- Utilize quadros (frames) de 344 x 534 px.
+- O protótipo é uma representação de alta fidelidade, não executável, da interface e de seus estados; não é necessário implementar código.
+
+Restrições:
+- Utilize apenas as informações contidas nos artefatos anexados.
+- Não acrescente funcionalidades que não estejam descritas nos artefatos.
+- Todos os textos da interface devem estar em português.
+- Caso não consiga ler algum dos artefatos anexados, informe no início da resposta quais artefatos não puderam ser lidos.

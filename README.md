@@ -46,6 +46,7 @@ Os cenários vêm da base IUS-GUI e são identificados pelo `rico_id` da interfa
 TCC-evidences/
 ├── README.md                  ← este arquivo (português)
 ├── README.en.md               ← versão em inglês
+├── prompts/                   ← prompts de cada configuração de entrada (prompt-<config>-portuguese.txt, com tradução em -english.txt)
 └── 12750/
     ├── backlog_portuguese_version.md
     ├── backlog_english_version.md
@@ -59,7 +60,7 @@ TCC-evidences/
 
 ## Idioma dos artefatos
 
-**Os artefatos utilizados nas execuções estão em português** (arquivos `*_portuguese_version.*`). As versões em inglês (`*_english_version.*`) são traduções disponibilizadas apenas para facilitar o acesso de outros leitores e **não foram utilizadas no experimento**.
+**Os artefatos utilizados nas execuções estão em português** (arquivos `*_portuguese_version.*`). O mesmo vale para os prompts em `prompts/` (`*-portuguese.txt` usados; `*-english.txt` traduções). As versões em inglês (`*_english_version.*`) são traduções disponibilizadas apenas para facilitar o acesso de outros leitores e **não foram utilizadas no experimento**.
 
 ## Ficha de avaliação
 
