@@ -1,0 +1,80 @@
+nome_novo,nome_original,execucao,ordem,fase
+00_sorteio_1-lista.png,"poc-tela-sorteio.png",sorteio,00,1-lista
+00_sorteio_2-resultado.png,"poc-resultado-sorteio.png",sorteio,00,2-resultado
+01_GP-W_1-inicio-prompt-digitado.png,"GP-W-1.png",GP-W,01,1-inicio-prompt-digitado
+01_GP-W_2-inicio-enviado.png,"GP-W-2.png",GP-W,01,2-inicio-enviado
+01_GP-W_3-pergunta.png,"GP-W-3-question.png",GP-W,01,3-pergunta
+01_GP-W_5-fim.png,"gp-w-4.png",GP-W,01,5-fim
+02_GP-BW_1-inicio-prompt-digitado.png,"Captura de tela de 2026-11-23 21-34-11.png",GP-BW,02,1-inicio-prompt-digitado
+02_GP-BW_5-fim-parte1.png,"Captura de tela de 2026-11-23 21-38-16.png",GP-BW,02,5-fim-parte1
+02_GP-BW_5-fim-parte2.png,"Captura de tela de 2026-11-23 21-38-51.png",GP-BW,02,5-fim-parte2
+03_CL-BW_1-inicio-prompt-digitado.png,"Captura de tela de 2026-11-23 21-39-50.png",CL-BW,03,1-inicio-prompt-digitado
+03_CL-BW_2-inicio-enviado.png,"Captura de tela de 2026-11-23 21-39-56.png",CL-BW,03,2-inicio-enviado
+03_CL-BW_4-pergunta-respondida-execucao.png,"Captura de tela de 2026-11-23 21-45-22.png",CL-BW,03,4-pergunta-respondida-execucao
+03_CL-BW_5-fim-parte1.png,"Captura de tela de 2026-11-23 21-45-41.png",CL-BW,03,5-fim-parte1
+03_CL-BW_5-fim-parte2.png,"Captura de tela de 2026-11-23 21-45-48.png",CL-BW,03,5-fim-parte2
+04_GP-B_1-inicio-prompt-digitado.png,"Captura de tela de 2026-11-23 21-47-11.png",GP-B,04,1-inicio-prompt-digitado
+04_GP-B_2-inicio-enviado.png,"Captura de tela de 2026-11-23 21-47-18.png",GP-B,04,2-inicio-enviado
+04_GP-B_3-pergunta.png,"Captura de tela de 2026-11-23 21-48-25.png",GP-B,04,3-pergunta
+04_GP-B_4-resposta-execucao.png,"Captura de tela de 2026-11-23 21-48-41.png",GP-B,04,4-resposta-execucao
+04_GP-B_5-fim-com-erro-conexao.png,"Captura de tela de 2026-11-23 21-52-48.png",GP-B,04,5-fim-com-erro-conexao
+05_GP-DB_1-inicio-prompt-digitado.png,"Captura de tela de 2026-11-23 21-55-11.png",GP-DB,05,1-inicio-prompt-digitado
+05_GP-DB_2-inicio-enviado.png,"Captura de tela de 2026-11-23 21-55-18.png",GP-DB,05,2-inicio-enviado
+05_GP-DB_3-pergunta.png,"Captura de tela de 2026-11-23 21-56-21.png",GP-DB,05,3-pergunta
+05_GP-DB_4-resposta-execucao.png,"Captura de tela de 2026-11-23 21-56-29.png",GP-DB,05,4-resposta-execucao
+05_GP-DB_5-fim.png,"Captura de tela de 2026-11-23 22-01-03.png",GP-DB,05,5-fim
+06_CL-D_1-inicio-prompt-digitado.png,"Captura de tela de 2026-11-23 22-02-19.png",CL-D,06,1-inicio-prompt-digitado
+06_CL-D_2-inicio-enviado.png,"Captura de tela de 2026-11-23 22-02-24.png",CL-D,06,2-inicio-enviado
+06_CL-D_5-fim-parte1.png,"Captura de tela de 2026-11-23 22-06-36.png",CL-D,06,5-fim-parte1
+06_CL-D_5-fim-parte2.png,"Captura de tela de 2026-11-23 22-06-43.png",CL-D,06,5-fim-parte2
+06_CL-D_5-fim-parte3.png,"Captura de tela de 2026-11-23 22-07-25.png",CL-D,06,5-fim-parte3
+07_CL-DBW_1-inicio-prompt-digitado.png,"Captura de tela de 2026-11-23 22-08-06.png",CL-DBW,07,1-inicio-prompt-digitado
+07_CL-DBW_2-inicio-enviado.png,"Captura de tela de 2026-11-23 22-08-11.png",CL-DBW,07,2-inicio-enviado
+07_CL-DBW_3-pergunta.png,"Captura de tela de 2026-11-23 22-08-41.png",CL-DBW,07,3-pergunta
+07_CL-DBW_4-resposta-execucao.png,"Captura de tela de 2026-11-23 22-08-46.png",CL-DBW,07,4-resposta-execucao
+07_CL-DBW_5-fim-parte1.png,"Captura de tela de 2026-11-23 22-12-15.png",CL-DBW,07,5-fim-parte1
+07_CL-DBW_5-fim-parte2.png,"Captura de tela de 2026-11-23 22-12-29.png",CL-DBW,07,5-fim-parte2
+08_GP-DBW_1-inicio-prompt-digitado.png,"Captura de tela de 2026-11-23 22-13-52.png",GP-DBW,08,1-inicio-prompt-digitado
+08_GP-DBW_2-inicio-enviado.png,"Captura de tela de 2026-11-23 22-13-59.png",GP-DBW,08,2-inicio-enviado
+08_GP-DBW_3-pergunta.png,"Captura de tela de 2026-11-23 22-14-36.png",GP-DBW,08,3-pergunta
+08_GP-DBW_4-resposta-execucao.png,"Captura de tela de 2026-11-23 22-14-43.png",GP-DBW,08,4-resposta-execucao
+08_GP-DBW_5-fim-parte1.png,"Captura de tela de 2026-11-23 22-18-22.png",GP-DBW,08,5-fim-parte1
+08_GP-DBW_5-fim-parte2.png,"Captura de tela de 2026-11-23 22-19-24.png",GP-DBW,08,5-fim-parte2
+09_CL-B_1-inicio-prompt-digitado.png,"Captura de tela de 2026-11-23 22-20-27.png",CL-B,09,1-inicio-prompt-digitado
+09_CL-B_2-inicio-enviado.png,"Captura de tela de 2026-11-23 22-20-33.png",CL-B,09,2-inicio-enviado
+09_CL-B_3-pergunta.png,"Captura de tela de 2026-11-23 22-20-59.png",CL-B,09,3-pergunta
+09_CL-B_4-resposta-execucao.png,"Captura de tela de 2026-11-23 22-21-06.png",CL-B,09,4-resposta-execucao
+09_CL-B_5-fim-parte1.png,"Captura de tela de 2026-11-23 22-24-54.png",CL-B,09,5-fim-parte1
+09_CL-B_5-fim-parte2.png,"Captura de tela de 2026-11-23 22-25-51.png",CL-B,09,5-fim-parte2
+10_GP-D_1-inicio-prompt-digitado.png,"Captura de tela de 2026-11-23 22-25-03.png",GP-D,10,1-inicio-prompt-digitado
+10_GP-D_3-pergunta.png,"Captura de tela de 2026-11-23 22-28-51.png",GP-D,10,3-pergunta
+10_GP-D_4-resposta-execucao.png,"Captura de tela de 2026-11-23 22-29-07.png",GP-D,10,4-resposta-execucao
+10_GP-D_5-fim-parte1.png,"Captura de tela de 2026-11-23 22-34-03.png",GP-D,10,5-fim-parte1
+10_GP-D_5-fim-parte2.png,"Captura de tela de 2026-11-23 22-34-45.png",GP-D,10,5-fim-parte2
+11_GP-DW_1-inicio-prompt-digitado.png,"Captura de tela de 2026-11-23 22-35-21.png",GP-DW,11,1-inicio-prompt-digitado
+11_GP-DW_2-inicio-enviado.png,"Captura de tela de 2026-11-23 22-35-26.png",GP-DW,11,2-inicio-enviado
+11_GP-DW_3-pergunta.png,"Captura de tela de 2026-11-23 22-35-59.png",GP-DW,11,3-pergunta
+11_GP-DW_4-resposta-execucao.png,"Captura de tela de 2026-11-23 22-36-04.png",GP-DW,11,4-resposta-execucao
+11_GP-DW_5-fim-parte1.png,"Captura de tela de 2026-11-23 22-38-32.png",GP-DW,11,5-fim-parte1
+11_GP-DW_5-fim-parte2.png,"Captura de tela de 2026-11-23 22-38-52.png",GP-DW,11,5-fim-parte2
+12_CL-DB_1-inicio-prompt-digitado.png,"Captura de tela de 2026-11-23 22-39-36.png",CL-DB,12,1-inicio-prompt-digitado
+12_CL-DB_2-inicio-enviado.png,"Captura de tela de 2026-11-23 22-39-46.png",CL-DB,12,2-inicio-enviado
+12_CL-DB_2-inicio-execucao.png,"Captura de tela de 2026-11-23 22-39-49.png",CL-DB,12,2-inicio-execucao
+12_CL-DB_3-pergunta.png,"Captura de tela de 2026-11-23 22-40-15.png",CL-DB,12,3-pergunta
+12_CL-DB_4-resposta-execucao.png,"Captura de tela de 2026-11-23 22-40-19.png",CL-DB,12,4-resposta-execucao
+12_CL-DB_5-fim-parte1.png,"Captura de tela de 2026-11-23 22-45-39.png",CL-DB,12,5-fim-parte1
+12_CL-DB_5-fim-parte2.png,"Captura de tela de 2026-11-23 22-45-45.png",CL-DB,12,5-fim-parte2
+12_CL-DB_5-fim-parte3.png,"Captura de tela de 2026-11-23 22-45-51.png",CL-DB,12,5-fim-parte3
+13_CL-DW_1-inicio-prompt-digitado.png,"Captura de tela de 2026-11-23 22-46-38.png",CL-DW,13,1-inicio-prompt-digitado
+13_CL-DW_2-inicio-enviado.png,"Captura de tela de 2026-11-23 22-46-44.png",CL-DW,13,2-inicio-enviado
+13_CL-DW_3-pergunta.png,"Captura de tela de 2026-11-23 22-47-32.png",CL-DW,13,3-pergunta
+13_CL-DW_4-resposta-execucao.png,"Captura de tela de 2026-11-23 22-47-38.png",CL-DW,13,4-resposta-execucao
+13_CL-DW_5-fim-parte1.png,"Captura de tela de 2026-11-23 22-53-30.png",CL-DW,13,5-fim-parte1
+13_CL-DW_5-fim-parte2.png,"Captura de tela de 2026-11-23 22-53-33.png",CL-DW,13,5-fim-parte2
+13_CL-DW_5-fim-parte3.png,"Captura de tela de 2026-11-23 22-54-00.png",CL-DW,13,5-fim-parte3
+14_CL-W_1-inicio-prompt-digitado.png,"Captura de tela de 2026-11-23 22-54-14.png",CL-W,14,1-inicio-prompt-digitado
+14_CL-W_2-inicio-enviado.png,"Captura de tela de 2026-11-23 22-54-18.png",CL-W,14,2-inicio-enviado
+14_CL-W_3-pergunta.png,"Captura de tela de 2026-11-23 22-54-39.png",CL-W,14,3-pergunta
+14_CL-W_4-resposta-execucao.png,"Captura de tela de 2026-11-23 22-54-43.png",CL-W,14,4-resposta-execucao
+14_CL-W_5-fim-parte1.png,"Captura de tela de 2026-11-23 22-58-09.png",CL-W,14,5-fim-parte1
+14_CL-W_5-fim-parte2.png,"Captura de tela de 2026-11-23 22-58-11.png",CL-W,14,5-fim-parte2
