@@ -3,7 +3,7 @@
 [![Português](https://img.shields.io/badge/idioma-Português-green?style=for-the-badge)](README.md)
 [![English](https://img.shields.io/badge/language-English-blue?style=for-the-badge)](README.en.md)
 
-Artefatos de entrada e instrumentos de avaliação do experimento do Trabalho de Conclusão de Curso **"Prototipação de interfaces com IA generativa: efeitos das modalidades de entrada sobre produtividade, aderência aos requisitos, esforço de refinamento e custos"**.
+Artefatos de entrada, instrumentos de avaliação e evidências da prova de conceito do experimento do Trabalho de Conclusão de Curso **"Prototipação de interfaces com IA generativa: efeitos das modalidades de entrada sobre produtividade, aderência aos requisitos, esforço de refinamento e custos"**.
 
 - **Autores:** Ana Luiza Soares de Carvalho e Matheus de Alcântara Campos da Silva
 - **Orientadora:** Profa. Dra. Elaine Venson
@@ -47,16 +47,25 @@ TCC-evidences/
 ├── README.md                  ← este arquivo (português)
 ├── README.en.md               ← versão em inglês
 ├── prompts/                   ← prompts de cada configuração de entrada (prompt-<config>-portuguese.txt, com tradução em -english.txt)
-└── 12750/
-    ├── backlog_portuguese_version.md
-    ├── backlog_english_version.md
-    ├── use_case_diagram_portuguese_version.png
-    ├── use_case_diagram_english_version.png
-    ├── wireframe_portuguese_version.png
-    ├── wireframe_english_version.png
-    ├── evaluation_sheet_portuguese_version.md   ← ficha de avaliação (usada)
-    └── evaluation_sheet_english_version.md     ← tradução da ficha
+├── 12750/                     ← artefatos de entrada e ficha de avaliação do cenário
+│   ├── backlog_<idioma>_version.md
+│   ├── use_case_diagram_<idioma>_version.png
+│   ├── wireframe_<idioma>_version.png
+│   └── evaluation_sheet_<idioma>_version.md
+└── poc/                       ← evidências da prova de conceito (cenário 12750)
+    ├── PoC 12750 - registro das execuções.xlsx   ← planilha de registro das execuções
+    ├── poc-capturas-tela-organizadas/            ← capturas de tela + indice.csv
+    ├── poc-sessões/                              ← sessões exportadas do OpenCode (.json) e ambiente/
+    └── protótipos/                               ← protótipos gerados no Figma (.pdf)
 ```
+
+## Prova de conceito
+
+A prova de conceito foi executada com o cenário 12750, nas sete configurações de entrada, com GPT-6.1 Sol (`GP`) e Claude Opus 5.5 (`CL`). A ordem das execuções foi sorteada (`00_sorteio_*`).
+
+- **Capturas de tela:** `<ordem>_<modelo>-<config>_<fase>.png`, com as fases `1-inicio-prompt-digitado`, `2-inicio-enviado`, `3-pergunta`, `4-resposta-execucao` e `5-fim`. O `indice.csv` relaciona cada arquivo ao nome original.
+- **Sessões:** um `.json` por execução, exportado do OpenCode; `ambiente/` registra a versão do OpenCode, do sistema e o MCP do Figma.
+- **Protótipos:** um PDF por execução, nomeado por `<modelo> - <config>`.
 
 ## Idioma dos artefatos
 

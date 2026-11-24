@@ -3,7 +3,7 @@
 [![Português](https://img.shields.io/badge/idioma-Português-green?style=for-the-badge)](README.md)
 [![English](https://img.shields.io/badge/language-English-blue?style=for-the-badge)](README.en.md)
 
-Input artifacts and evaluation instruments for the experiment of the undergraduate thesis **"Prototipação de interfaces com IA generativa: efeitos das modalidades de entrada sobre produtividade, aderência aos requisitos, esforço de refinamento e custos"** (_Interface prototyping with generative AI: effects of input modalities on productivity, requirements adherence, refinement effort and costs_).
+Input artifacts, evaluation instruments and proof-of-concept evidence for the experiment of the undergraduate thesis **"Prototipação de interfaces com IA generativa: efeitos das modalidades de entrada sobre produtividade, aderência aos requisitos, esforço de refinamento e custos"** (_Interface prototyping with generative AI: effects of input modalities on productivity, requirements adherence, refinement effort and costs_).
 
 - **Authors:** Ana Luiza Soares de Carvalho and Matheus de Alcântara Campos da Silva
 - **Advisor:** Profa. Dra. Elaine Venson
@@ -47,16 +47,27 @@ TCC-evidences/
 ├── README.md                  ← Portuguese version
 ├── README.en.md               ← this file (English)
 ├── prompts/                   ← prompts for each input configuration (prompt-<config>-portuguese.txt, translated in -english.txt)
-└── 12750/
-    ├── backlog_portuguese_version.md
-    ├── backlog_english_version.md
-    ├── use_case_diagram_portuguese_version.png
-    ├── use_case_diagram_english_version.png
-    ├── wireframe_portuguese_version.png
-    ├── wireframe_english_version.png
-    ├── evaluation_sheet_portuguese_version.md   ← evaluation sheet (used)
-    └── evaluation_sheet_english_version.md     ← translation of the sheet
+├── 12750/                     ← scenario input artifacts and evaluation sheet
+│   ├── backlog_<language>_version.md
+│   ├── use_case_diagram_<language>_version.png
+│   ├── wireframe_<language>_version.png
+│   └── evaluation_sheet_<language>_version.md
+└── poc/                       ← proof-of-concept evidence (scenario 12750)
+    ├── PoC 12750 - registro das execuções.xlsx   ← run log spreadsheet
+    ├── poc-capturas-tela-organizadas/            ← screenshots + indice.csv
+    ├── poc-sessões/                              ← OpenCode sessions (.json) and ambiente/
+    └── protótipos/                               ← prototypes generated in Figma (.pdf)
 ```
+
+## Proof of concept
+
+The proof of concept was run with scenario 12750, in all seven input configurations, with GPT-6.1 Sol (`GP`) and Claude Opus 5.5 (`CL`). The run order was drawn at random (`00_sorteio_*`).
+
+- **Screenshots:** `<order>_<model>-<config>_<phase>.png`, with phases `1-inicio-prompt-digitado` (prompt typed), `2-inicio-enviado` (sent), `3-pergunta` (question), `4-resposta-execucao` (answer/run) and `5-fim` (end). `indice.csv` maps each file to its original name.
+- **Sessions:** one `.json` per run, exported from OpenCode; `ambiente/` records the OpenCode version, the system and the Figma MCP.
+- **Prototypes:** one PDF per run, named `<model> - <config>`.
+
+The PoC files keep their Portuguese names.
 
 ## Language of the artifacts
 
