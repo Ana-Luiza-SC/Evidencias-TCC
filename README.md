@@ -1,4 +1,4 @@
-# TCC-evidences
+# Evidencias-TCC
 
 [![Português](https://img.shields.io/badge/idioma-Português-green?style=for-the-badge)](README.md)
 [![English](https://img.shields.io/badge/language-English-blue?style=for-the-badge)](README.en.md)
@@ -43,7 +43,7 @@ Os cenários vêm da base IUS-GUI e são identificados pelo `rico_id` da interfa
 ## Estrutura do repositório
 
 ```
-TCC-evidences/
+Evidencias-TCC/
 ├── README.md                  ← este arquivo (português)
 ├── README.en.md               ← versão em inglês
 ├── prompts/                   ← prompts de cada configuração de entrada (prompt-<config>-portuguese.txt, com tradução em -english.txt)
@@ -96,15 +96,15 @@ Os cenários foram elaborados a partir da base **IUS-GUI** (Kolthoff et al., 202
 
 ## Como citar
 
-> CARVALHO, A. L. S. de; SILVA, M. de A. C. da. **TCC-evidences**: artefatos de entrada do experimento. 2026. GitHub. Versão v1.0. Disponível em: <https://github.com/Ana-Luiza-SC/TCC-evidences/releases/tag/v1.0>.
+> CARVALHO, A. L. S. de; SILVA, M. de A. C. da. **Evidencias-TCC**: artefatos de entrada do experimento. 2026. GitHub. Versão v1.0. Disponível em: <https://github.com/Ana-Luiza-SC/Evidencias-TCC/releases/tag/v1.0>.
 
 ```bibtex
-@misc{tcc_evidences_2026,
+@misc{evidencias_tcc_2026,
   author       = {Carvalho, Ana Luiza Soares de and Silva, Matheus de Alcântara Campos da},
-  title        = {{TCC-evidences}: artefatos de entrada do experimento},
+  title        = {{Evidencias-TCC}: artefatos de entrada do experimento},
   year         = {2026},
   howpublished = {GitHub},
   note         = {Versão v1.0},
-  url          = {https://github.com/Ana-Luiza-SC/TCC-evidences/releases/tag/v1.0}
+  url          = {https://github.com/Ana-Luiza-SC/Evidencias-TCC/releases/tag/v1.0}
 }
 ```

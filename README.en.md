@@ -1,4 +1,4 @@
-# TCC-evidences
+# Evidencias-TCC
 
 [![Português](https://img.shields.io/badge/idioma-Português-green?style=for-the-badge)](README.md)
 [![English](https://img.shields.io/badge/language-English-blue?style=for-the-badge)](README.en.md)
@@ -43,7 +43,7 @@ Scenarios come from the IUS-GUI dataset and are identified by the interface's `r
 ## Repository structure
 
 ```
-TCC-evidences/
+Evidencias-TCC/
 ├── README.md                  ← Portuguese version
 ├── README.en.md               ← this file (English)
 ├── prompts/                   ← prompts for each input configuration (prompt-<config>-portuguese.txt, translated in -english.txt)
@@ -98,15 +98,15 @@ The scenarios were built from the **IUS-GUI** dataset (Kolthoff et al., 2024), v
 
 ## How to cite
 
-> CARVALHO, A. L. S. de; SILVA, M. de A. C. da. **TCC-evidences**: artefatos de entrada do experimento. 2026. GitHub. Version v1.0. Available at: <https://github.com/Ana-Luiza-SC/TCC-evidences/releases/tag/v1.0>.
+> CARVALHO, A. L. S. de; SILVA, M. de A. C. da. **Evidencias-TCC**: artefatos de entrada do experimento. 2026. GitHub. Version v1.0. Available at: <https://github.com/Ana-Luiza-SC/Evidencias-TCC/releases/tag/v1.0>.
 
 ```bibtex
-@misc{tcc_evidences_2026,
+@misc{evidencias_tcc_2026,
   author       = {Carvalho, Ana Luiza Soares de and Silva, Matheus de Alcântara Campos da},
-  title        = {{TCC-evidences}: artefatos de entrada do experimento},
+  title        = {{Evidencias-TCC}: artefatos de entrada do experimento},
   year         = {2026},
   howpublished = {GitHub},
   note         = {Versão v1.0},
-  url          = {https://github.com/Ana-Luiza-SC/TCC-evidences/releases/tag/v1.0}
+  url          = {https://github.com/Ana-Luiza-SC/Evidencias-TCC/releases/tag/v1.0}
 }
 ```
