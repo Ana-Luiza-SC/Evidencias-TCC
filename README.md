@@ -96,15 +96,16 @@ Os cenários foram elaborados a partir da base **IUS-GUI** (Kolthoff et al., 202
 
 ## Como citar
 
-> CARVALHO, A. L. S. de; SILVA, M. de A. C. da. **Evidencias-TCC**: artefatos de entrada do experimento. 2026. GitHub. Versão v1.0. Disponível em: <https://github.com/Ana-Luiza-SC/Evidencias-TCC/releases/tag/v1.0>.
+> CARVALHO, A. L. S. de; SILVA, M. de A. C. da. **Evidências do TCC**: artefatos de entrada, prompts e registros de execução do experimento de prototipação de interfaces com IA generativa. Versão 1.3. Zenodo, 2026. DOI: 10.5281/zenodo.24518878. Disponível em: <https://doi.org/10.5281/zenodo.24518878>.
 
 ```bibtex
-@misc{evidencias_tcc_2026,
-  author       = {Carvalho, Ana Luiza Soares de and Silva, Matheus de Alcântara Campos da},
-  title        = {{Evidencias-TCC}: artefatos de entrada do experimento},
-  year         = {2026},
-  howpublished = {GitHub},
-  note         = {Versão v1.0},
-  url          = {https://github.com/Ana-Luiza-SC/Evidencias-TCC/releases/tag/v1.0}
+@dataset{evidencias_tcc_2026,
+  author    = {Carvalho, Ana Luiza Soares de and Silva, Matheus de Alcântara Campos da},
+  title     = {Evidências do TCC: artefatos de entrada, prompts e registros de execução do experimento de prototipação de interfaces com IA generativa},
+  year      = {2026},
+  publisher = {Zenodo},
+  version   = {1.3},
+  doi       = {10.5281/zenodo.24518878},
+  url       = {https://doi.org/10.5281/zenodo.24518878}
 }
 ```
